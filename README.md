@@ -87,3 +87,4 @@ The complete project report, including SQL queries, analysis, observations, and 
 
 ---
 
+**Note:** The dataset is **not included** in this repository to respect data usage and distribution restrictions.
